@@ -1,2 +1,2 @@
 # EvilTwin
-A small shell script for performing an Evil Twin attack.
+A small script for performing an Evil Twin attack.
